@@ -3,3 +3,4 @@ tweepy
 nltk
 matplotlib.pyplot
 numpy
+vaderSentiment-fr
