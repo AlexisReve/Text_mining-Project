@@ -1,0 +1,5 @@
+pandas
+tweepy
+nltk
+matplotlib.pyplot
+numpy
