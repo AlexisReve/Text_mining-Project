@@ -18,4 +18,6 @@ df = pd.DataFrame(tweets)
 print(df.shape)
 
 #Save the data to csv:
-df.to_csv("Tweet_Asterix.csv", sep = ";")
+try:
+    df.to_csv("Tweet_Asterix_0802.csv", sep = ";")
+except: print("not saved")
