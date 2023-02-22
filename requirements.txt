@@ -4,3 +4,4 @@ nltk
 matplotlib.pyplot
 numpy
 vaderSentiment-fr
+emoji
